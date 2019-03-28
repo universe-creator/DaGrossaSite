@@ -1,3 +1,7 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
 ul{
     display: flex;
     justify-content: space-around;
@@ -9,6 +13,9 @@ li {
     align-self: center;
 }
 h1 {
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
     font-size: 90pt;
     font-family: Futura;
 }
@@ -17,7 +24,19 @@ h2{
     font-family: Euphemia UCAS;
 }
 p{
+    margin-left: 50%;
+    margin-right: 10%;
     font-size: 15pt;
     font-family: Kohinoor Devanagari;
     color: #DA4F00;
+}
+#Welcoming {
+    width: 375;
+    height: 104.424;
+    align-self: center;
+}
+#Recently {
+    align-self: center;
+    width: 592.629;
+    height: 104.424;
 }
