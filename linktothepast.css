@@ -16,6 +16,7 @@ h1 {
     display:flex;
     justify-content: space-around;
     align-self: center;
+    margin-left: 40%;
     font-size: 90pt;
     font-family: Futura;
 }
@@ -36,7 +37,11 @@ p{
     align-self: center;
 }
 #Recently {
-    align-self: center;
     width: 592.629;
     height: 104.424;
+    align-self: center;
+}
+#Squiggle {
+    margin-left: 30%;
+    margin-right: 30%;
 }
