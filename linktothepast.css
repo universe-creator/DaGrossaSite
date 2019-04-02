@@ -45,3 +45,11 @@ p{
     margin-left: 30%;
     margin-right: 30%;
 }
+#writ {
+    align-self: center;
+}
+#cat {
+    align-self: center;
+    color: 0081CB;
+
+}
