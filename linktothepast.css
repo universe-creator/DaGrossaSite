@@ -60,3 +60,22 @@ font-size: 70pt;
     font-family: Kohinoor Devanagari;
     color: #DA4F00;
 }
+a{
+    text-decoration: none;
+}
+#ListyBoi {
+    color: black;
+    transition-duration: 5s;
+}
+#ListyBoi:link {
+    background-color: black;
+    color: white;
+}
+#ListyBoi:visited {
+     background-color: black;
+    color: gainsboro;
+}
+#ListyBoi:hover {
+    color: #0081CB;
+}
+/*0081CB*/
