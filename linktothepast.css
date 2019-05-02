@@ -24,6 +24,7 @@ h2{
     font-size: 75pt;
     font-family: Euphemia UCAS;
     align-self: center;
+    color: #0081CB;
 }
 #Welcoming {
     width: 375;
@@ -46,6 +47,8 @@ h2{
     align-self: center;
     color: 0081CB;
 font-size: 70pt;
+    border: solid 1px blue;
+    width:500px;
 }
 #Descrip1 {
     margin-left: 10%;
@@ -56,7 +59,15 @@ font-size: 70pt;
 #Descrip2 {
     margin-left: 50%;
     margin-right: 10%;
-    font-size: 30pt;
+    font-size: 15pt;
+    font-family: Kohinoor Devanagari;
+    color: #DA4F00;
+}
+#Descrip3 {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20pt;
+    margin-bottom: %;
     font-family: Kohinoor Devanagari;
     color: #DA4F00;
 }
@@ -78,4 +89,5 @@ a{
 #ListyBoi:hover {
     color: #0081CB;
 }
+
 /*0081CB*/
