@@ -44,6 +44,8 @@ h2{
     align-self: center;
 }
 #cat {
+     color: black;
+    transition-duration: 5s;
     align-self: center;
     color: 0081CB;
 font-size: 70pt;
