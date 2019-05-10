@@ -1,6 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
+    background-color: black
 }
 ul{
     display: flex;
@@ -19,6 +20,7 @@ h1 {
     margin-left: 40%;
     font-size: 90pt;
     font-family: Futura;
+    color: white;
 }
 h2{
     font-size: 75pt;
@@ -37,8 +39,12 @@ h2{
     align-self: center;
 }
 #Squiggle {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 500px;
+    margin-right: 500px;
+   border-width: 10px;
+    border-color: white;
+    color: white;
+    transform: rotate(5deg)
 }
 #writ {
     align-self: center;
@@ -76,7 +82,6 @@ font-size: 70pt;
 a{
     text-decoration: none;
 }
-
 #ListyBoi {
     color: black;
     transition-duration: 5s;
@@ -92,5 +97,4 @@ a{
 #ListyBoi:hover {
     color: #0081CB;
 }
-
 /*0081CB*/
