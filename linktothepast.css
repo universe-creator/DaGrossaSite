@@ -65,7 +65,7 @@ h4{
     align-self: center;
     color: 0081CB;
     border: solid 1px blue;
-    width:500px;
+    width: 700px;
 }
 #Descrip1 {
     margin-left: 10%;
@@ -107,7 +107,7 @@ a{
     color: #0081CB;
 }
  /*0081CB*/
-/*Media querrey small screen*/
+/*Media querey small screen*/
 @media only screen and (max-width: 700px) {
     body {
         background-color: white;
