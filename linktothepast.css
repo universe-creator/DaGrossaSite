@@ -106,6 +106,17 @@ a{
 #ListyBoi:hover {
     color: #0081CB;
 }
+h5{
+    font-size: 35pt;
+    font-family: Euphemia UCAS;
+    align-self: center;
+    color: #0081CB;
+}
+#LongBoi {
+    align-content: center;
+    flex-direction: column;
+    display: flex;
+}
  /*0081CB*/
 /*Media querey small screen*/
 @media only screen and (max-width: 700px) {
